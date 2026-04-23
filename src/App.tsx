@@ -363,7 +363,7 @@ export default function App() {
           </div>
           
           <div className="flex flex-col items-center gap-4">
-            <p className="text-gray-400 text-lg font-black tracking-widest uppercase">Токарев П.</p>
+            <p className="text-gray-400 text-lg font-black tracking-widest uppercase">Токарев П.Е</p>
             <div className="flex gap-4">
                <a 
                 href="#" 
